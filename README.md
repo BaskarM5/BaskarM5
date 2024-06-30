@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Baskar M
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m BASKAR M
+- 👀 I am a student with a strong interest in problem solving and Designing.
+- I am passionate about learning and gathering new skills and am eager to contribute to the organization.
+- 🌱 I’m currently learning Advance JAVA and FullStackDevelopment .
+
 
 # Leetcode
 
@@ -17,10 +19,9 @@
 <!------------------------------------------>
 <!-- SECTION: Contact me -->
 
-## 💻 Coding Profiles
+## 💻 Coding Profile
 
 - **LeetCode:** [Baskar_M](https://leetcode.com/Baskar_M/)
-- **HackerRank:** [Baskar_M](https://www.hackerrank.com/)
 
 
 
