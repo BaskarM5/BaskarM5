@@ -28,7 +28,7 @@ Here is My LeetCode Profile (https://leetcode.com/Baskar_M/)
 ## 🌐 Contact Me On
 
 - **Website:** [Baskar_M](https://Baskar_M.netlify.app/)
-- **LinkedIn:** [Baskar_M](www.linkedin.com/in/baskar15)
+- **LinkedIn:** [Baskar_M](https://www.linkedin.com/in/baskar15)
 - **Email:** <a href="mailto:baskarvhp98@gmail.com">Baskar98@gmail.com</a>
 
 <!--
