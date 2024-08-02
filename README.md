@@ -14,7 +14,7 @@ Here is My LeetCode Profile (https://leetcode.com/Baskar_M/)
 <a href="https://leetcode.com/Baskar_M">
     <img src="https://leetcard.jacoblin.cool/Baskar_M?theme=forest&font=Gudea height="50%" width="50%"></img>
 <a>
-<pre>         <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>            <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="40px"></img>
+<pre>         <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>        <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>         <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="40px"></img>
 </pre>
 
 ## Projects
