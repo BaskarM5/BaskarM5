@@ -3,7 +3,7 @@
     <br>
 📍-  I am a 🧑🏻‍💻student with a strong interest in §⚡<b>problem solving </b>and ☁️<b>Cloud Platform</b>.
 📍- I am passionate about learning and 📈<b>gathering new skills</b> and am <b>eager to 🏢contribute to the organization</b>.
-📍- I’m currently learning Ĵ<b>Advance JAVA</b> and ċ<b>Cloud Technologies</b> .
+📍- I’m currently learning <b>Advance JAVA</b> and <b>Cloud Technologies</b> .
 </p></pre>
 ## Leetcode
 
